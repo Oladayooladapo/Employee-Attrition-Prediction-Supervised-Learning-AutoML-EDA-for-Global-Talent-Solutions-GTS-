@@ -1,8 +1,6 @@
 # Employee-Attrition-Prediction-Supervised-Learning-AutoML-EDA-for-Global-Talent-Solutions-GTS-
 This project tackles the growing challenge of employee attrition using supervised machine learning, specifically classification techniques. The goal is to empower **GTS** with a predictive system to identify employees at risk of leaving, enabling preemptive retention actions and reducing HR costs.
 
-# Employee Attrition Prediction: A Supervised Learning Case Study
-
 ## Project Overview
 
 This project addresses the critical business challenge of employee attrition for **Global Talent Solutions (GTS)**, a multinational HR solutions company. Leveraging supervised machine learning techniques, the goal is to develop a predictive model that identifies employees at high risk of attrition. This enables GTS to proactively implement retention strategies, reduce associated costs, and foster a more stable workforce.
