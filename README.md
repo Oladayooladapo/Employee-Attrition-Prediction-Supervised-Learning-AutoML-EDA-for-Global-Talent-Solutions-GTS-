@@ -84,7 +84,7 @@ My approach to this supervised learning project followed a structured methodolog
 - **Thought Process:** EDA is an iterative process. Starting with univariate analysis gives a baseline understanding. Bivariate analysis helps identify potential drivers of attrition. Correlation analysis confirms relationships and informs feature selection.
 
 
-📈 Key Insights from EDA
+Key Insights from EDA
 OverTime was a strong predictor of attrition. Employees working late often leave.
 
 Low Job Satisfaction and poor Work-Life Balance strongly correlated with leaving.
@@ -144,24 +144,14 @@ Some departments showed above-average attrition (potential internal HR red flag)
     - **Proactive Retention:** Use the predictive model to identify high-risk employees early and initiate personalized retention efforts (e.g., stay interviews, career pathing discussions, compensation reviews).
 
 
-✅ Final Model Output
-F1-Score: ~0.82
+Final Model Output
+Accuracy: ~0.83
 
-ROC-AUC: ~0.88
+ROC-AUC: ~0.89
 
 Recall: High sensitivity in identifying attrition cases
 
-🔍 SMOTE was used to handle class imbalance effectively.
-
-
-## Tools & Libraries Used
-
--   **Programming Language:** Python
--   **Data Manipulation:** `pandas`, `numpy`
--   **Data Visualization:** `matplotlib.pyplot`, `seaborn`, `missingno`
--   **Machine Learning:** `scikit-learn` (for preprocessing, model evaluation), `imbalanced-learn` (for SMOTE)
--   **Automated Machine Learning (AutoML):** `PyCaret`
--   **Jupyter Notebook:** For interactive analysis and documentation.
+SMOTE was used to handle class imbalance effectively.
 
 ## Files in this Repository
 
@@ -172,7 +162,7 @@ Recall: High sensitivity in identifying attrition cases
 -   `README.md`: This file.
 
 
-💡 Business Recommendations
+Business Recommendations
 Reduce Overtime: Flag and manage departments with excessive overtime – a key attrition driver.
 
 Boost Engagement: Focus on improving JobSatisfaction through training, internal mobility, and recognition.
