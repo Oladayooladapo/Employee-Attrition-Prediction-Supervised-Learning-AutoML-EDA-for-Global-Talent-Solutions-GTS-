@@ -165,8 +165,9 @@ Recall: High sensitivity in identifying attrition cases
 
 ## Files in this Repository
 
--   `Case study - Employee Attrition - Supervised Learning (Classification) with AutoML.ipynb`: The main Jupyter Notebook containing all the code for data loading, cleaning, EDA, feature engineering, model training, and evaluation, including AutoML implementation.
+-   `Employee Attrition - Supervised Learning (Classification) with AutoML`: The main Jupyter Notebook containing all the code for data loading, cleaning, EDA, feature engineering, model training, and evaluation, including AutoML implementation.
 -   `employee_attrition.csv`: The raw dataset used for the project.
+-   `cleaned_employee_attrition_balanced_corrected`: The cleaned and balanced dataset used for learning.
 -   `Case Study_ Supervised learning - Classification.pptx.pdf`: The presentation slides outlining the business problem, project workflow, and key findings.
 -   `README.md`: This file.
 
